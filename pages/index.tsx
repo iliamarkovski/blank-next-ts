@@ -9,7 +9,7 @@ const Home: NextPage = () => {
       <SEO title="Homepage" content="Homepage content" />
       <MainContainer>
         <Wrapper>
-          <h1>Hellow World</h1>
+          <h1>Hello World</h1>
         </Wrapper>
       </MainContainer>
     </>
